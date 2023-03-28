@@ -24,7 +24,7 @@ public class App {
         //extrair só os dados que interessam (titulo, post, classificacao)
 
         JsonParser parser = new JsonParser();   
-        // or var jsonParser = new JsonParser();
+        // or var parser = new JsonParser();
         List<Map<String, String>> listaDeFilmes = parser.parse(body);
         // MAP: associa uma chave a um valor. É necessario dizer o tipo.
 
