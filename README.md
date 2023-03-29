@@ -24,8 +24,8 @@ Repositório de estudo construído com base no treinamento intensivo de desenvol
     <li>- https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopMovies.json</li>
     <li>- https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopTVs.json</li>
     <li>- https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/MostPopularMovies.json</li>
-   <li> - https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/MostPopularTVs.json</li>
-    <li></ul>
+    <li> - https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/MostPopularTVs.json</li>
+  </ul>
 
     ###Além disso, foi atribuido + 2 desafios extras: 
 
@@ -43,7 +43,7 @@ Repositório de estudo construído com base no treinamento intensivo de desenvol
 :heavy_check_mark: Imprimir o número de estrelas que os filmes receberam, de acordo com o classificação do filme/série de acordo com a avaliação. Tendo como valor máximo de estrelas fixados em 5.
 
 
-## Layout  :dash:
+## Layout  ♨
 
 ![image](https://cdn.discordapp.com/attachments/958491000068767775/1090478825382621224/image.png)
 
