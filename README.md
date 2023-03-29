@@ -1,6 +1,6 @@
 # Projeto de Imersão Java
 
-# Sobre o Projeto:
+## Sobre o Projeto:
 Repositório de estudo construído com base no treinamento intensivo de desenvolvimento back-end com a linguagem Java proposto pela plataforma [**alura**](https://www.alura.com.br/).
 
 ### Tópicos 
