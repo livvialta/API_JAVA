@@ -72,8 +72,7 @@ public class popularMovies {
             System.out.print("⭐");
             star++;
         }
-        System.out.print(" - (" + classificacao + ")");
-                    
+        System.out.print(" - (" + classificacao + ")");      
         }
     }
 }
