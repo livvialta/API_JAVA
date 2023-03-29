@@ -9,7 +9,7 @@ Repositório de estudo construído com base no treinamento intensivo de desenvol
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Layout ♨](#layout-dash)
+:small_blue_diamond: [Layout](#layout-dash)
 
 :small_blue_diamond: [Técnicas e tecnologias exercitadas](#técnicas-e-tecnologias-exercitadas-books)
 
@@ -43,7 +43,7 @@ Repositório de estudo construído com base no treinamento intensivo de desenvol
 :heavy_check_mark: Imprimir o número de estrelas que os filmes receberam, de acordo com o classificação do filme/série de acordo com a avaliação. Tendo como valor máximo de estrelas fixados em 5.
 
 
-## Layout ♨
+## Layout  :dash:
 
 ![image](https://cdn.discordapp.com/attachments/958491000068767775/1090478825382621224/image.png)
 
