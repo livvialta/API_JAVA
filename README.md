@@ -50,4 +50,4 @@ Repositório de estudo construído com base no treinamento intensivo de desenvol
 
 
 # Tecnologias Utilizadas:
- [![logo-do-java.png](https://i.postimg.cc/gkzrfS4S/logo-do-java.png)]( https://www.oracle.com/java/)  
+ [![198-1984828_java-icon-transparent-hd-png-download.png](https://www.kindpng.com/picc/m/198-1984828_java-icon-transparent-hd-png-download.png)]( https://www.oracle.com/java/)  
