@@ -9,7 +9,7 @@ Repositório de estudo construído com base no treinamento intensivo de desenvol
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Layout](#layout-dash)
+:small_blue_diamond: [Layout](#layout--dash)
 
 :small_blue_diamond: [Técnicas e tecnologias exercitadas](#técnicas-e-tecnologias-exercitadas-books)
 
