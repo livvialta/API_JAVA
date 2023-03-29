@@ -27,19 +27,22 @@ public class popularMovies {
         // MAP: associa uma chave a um valor. É necessario dizer o tipo.
 
         //exibir e manipular os dados
+        System.out.println("\u001b[38;2;255;255;255m \u001b[48;2;42;122;228m Filmes populares e suas avaliações.\u001b[m"); 
 
         for (int i = 0; i < 3; i++) { //nessa linha a um for para definir quantos filmes vao ser printados, ai no caso coloquei 3.
             Map<String,String> filme = listaDeFilmes.get(i);
+            System.out.println("\n-----------------------------------------------------------");
+            
+            System.out.println("\u001b[1m Título: \u001b[m" + filme.get("title"));      
 
-            System.out.println("\u001b[38;2;255;255;255m \u001b[48;2;42;122;228m Título:\u001b[m" + " " + filme.get("title")); 
-
-           
             System.out.println("\u001b[1m Post do Filme: \u001b[m" + filme.get("image"));
+
 
             Double classificacao = Double.parseDouble(filme.get("imDbRating"));
             int n_stars = (int) Math.round(classificacao);
 
-            System.out.println("\u001b[38;5;214m \u001b[48;5;153m Classificação: \u001b[m"); 
+            System.out.println("\u001b[1m Classificação: \u001b[m");
+
             int star = 1;
         while (star <= 5) {
             if (n_stars >= 9) {
@@ -69,10 +72,8 @@ public class popularMovies {
             System.out.print("⭐");
             star++;
         }
-        System.out.print(" - " + classificacao);
-        System.out.println("\n"); 
-
-            
+        System.out.print(" - (" + classificacao + ")");
+                    
         }
     }
 }
