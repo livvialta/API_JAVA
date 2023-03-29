@@ -1,5 +1,4 @@
 # Projeto de Imersão Java
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/livvialta/API_JAVA)  
 
 # Sobre o Projeto:
 Repositório de estudo construído com base no treinamento intensivo de desenvolvimento back-end com a linguagem Java proposto pela plataforma [**alura**](https://www.alura.com.br/).
@@ -21,10 +20,12 @@ Repositório de estudo construído com base no treinamento intensivo de desenvol
   Nesse primeiro dia, o objetivo foi requisitar dados a uma API de filmes e como resposta resgatar um arquivo Json, utilizado para extrair informações relevantes.
 
   Devido as instabilidades da IMDb (Onde deveriamos pegar as APIs), URLs alternativos foram oferecidos, para serem utilizados projeto:
-    - https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopMovies.json
-    - https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopTVs.json
-    - https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/MostPopularMovies.json
-    - https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/MostPopularTVs.json
+  <ul>
+    <li>- https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopMovies.json</li>
+    <li>- https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopTVs.json</li>
+    <li>- https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/MostPopularMovies.json</li>
+   <li> - https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/MostPopularTVs.json</li>
+    <li></ul>
 
     ###Além disso, foi atribuido + 2 desafios extras: 
 
